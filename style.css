@@ -1,0 +1,96 @@
+#about {
+  background-color: #EEEEEE;
+  padding:40px 10px 30px 40px;
+  font-size: 24px;
+  border-bottom: 1px solid #AAA;
+}
+#about h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  text-align: center;
+}
+
+p, h1, h2, h3, h4, h5, h6 { 
+  font-family: 'Raleway', sans-serif;
+}
+
+#contact {
+  border-top: 1px solid #AAA;
+  padding-top: 40px;
+  background-color: #EEEEEE;
+  font-size: 24px;
+  background: url('https://cloud.githubusercontent.com/assets/11418483/19407386/8dd55dc4-9255-11e6-8885-9f0ae766691c.jpg') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 75vh; 
+  color: #EEEEEE;
+  text-shadow: 0px 0px 3px #000;
+}
+
+#contact h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  text-align: center;
+}
+
+#contact p {
+  font-size: 36px;
+  text-align: center;
+}
+
+#home {
+  background: url('https://cloud.githubusercontent.com/assets/11418483/19407078/91ba4ada-924b-11e6-8520-34d0e392c68f.jpg') no-repeat center center fixed;
+  background-size: cover;
+  text-align: center;
+}
+
+#home h1 {
+font-family: 'Playfair Display', serif;
+  font-weight: 900; 
+  font-size: 154px;
+  color: #8BC348; 
+  text-shadow: 0px 0px 3px #000;
+}
+
+#home h5 {
+font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: 50px; 
+  color: #FFF;
+  text-shadow: 0px 0px 2px #000;
+}
+
+#team {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #EEEEEE;
+  font-size: 24px;
+}
+
+#team .col-md-4 {
+  text-align: center;
+}
+
+#team h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  text-align: center;
+}
+
+#portfolio-item {
+  text-align: center;
+}
+
+.portfolio-caption h4 {
+  font-size: 24px;
+}
+
+.portfolio-description {
+  font-size: 18px;
+}
+
+.intro {
+  background-color: lightblue;
+  min-height: 100vh; 
+  padding:160px 10px 30px 160px;
+ }
+}
